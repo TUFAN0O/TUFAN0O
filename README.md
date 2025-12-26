@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi, I'm Musa 👋
 
-<!--
-**TUFAN0O/TUFAN0O** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Engineering student focused on **Cyber Security**, **Blockchain/Web3**, **AI** and **Python**.  
+I build **secure**, **intelligent**, real-world **Web & Mobile** applications.
 
-Here are some ideas to get you started:
+## Interests
+- 🔐 Cyber Security (tools, labs, secure coding)
+- ⛓️ Blockchain / Web3 (learning & experiments)
+- 🤖 AI (practical projects, learning by building)
+- 🐍 Python (automation, security, AI)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tech Stack
+- **Backend:** ASP.NET MVC, C#, SQL
+- **Mobile:** Flutter
+- **Languages:** Python, C#
+- **Currently learning:** Cyber Security, Web3, AI
+
+## Connect with me
+- LinkedIn: https://www.linkedin.com/in/musa-tufanoglu
